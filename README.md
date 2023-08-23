@@ -1,4 +1,4 @@
-# Arxhiv_Summarizer
+# ArXiv_Summarizer
 Arxhiv Search Summarizer app for quick searching, summarizing papers, using AI and keywords
 
 ## Scope: Summarize recent research from arXhiv and send it to my e-mail
