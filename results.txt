@@ -1,0 +1,45 @@
+ID: http://arxiv.org/abs/2308.10624v1
+Published: 2023-08-21 10:49:10+00:00
+DOI: None
+Title: PyATMOS: A Scalable Grid of Hypothetical Planetary Atmospheres
+Authors: Aditya Chopra, Aaron C Bell, William Fawcett, Rodd Talebi, Daniel Angerhausen, Atılım Güneş Baydin, Anamaria Berea, Nathalie A. Cabrol, Christopher Kempes, Massimo Mascaro
+Summary: Cloud computing offers an opportunity to run compute-resource intensive
+climate models at scale by parallelising model runs such that datasets useful
+to the exoplanet community can be produced efficiently. To better understand
+the statistical distributions and properties of potentially habitable planetary
+atmospheres we implemented a parallelised climate modelling tool to scan a
+range of hypothetical atmospheres.Starting with a modern day Earth atmosphere,
+we iteratively and incrementally simulated a range of atmospheres to infer the
+landscape of the multi-parameter space, such as the abundances of biological
+mediated gases (\ce{O2}, \ce{CO2}, \ce{H2O}, \ce{CH4}, \ce{H2}, and \ce{N2})
+that would yield `steady state' planetary atmospheres on Earth-like planets
+around solar-type stars. Our current datasets comprises of \numatmospheres
+simulated models of exoplanet atmospheres and is available publicly on the NASA
+Exoplanet Archive. Our scalable approach of analysing atmospheres could also
+help interpret future observations of planetary atmospheres by providing
+estimates of atmospheric gas fluxes and temperatures as a function of altitude.
+Such data could enable high-throughput first-order assessment of the potential
+habitability of exoplanetary surfaces and sepcan be a learning dataset for
+machine learning applications in the atmospheric and exoplanet science domain.
+
+ID: http://arxiv.org/abs/2308.10909v1
+Published: 2023-08-20 03:23:42+00:00
+DOI: None
+Title: Global Warming In Ghana's Major Cities Based on Statistical Analysis of NASA's POWER Over 3-Decades
+Authors: Joshua Attih
+Summary: Global warming's impact on high temperatures in various parts of the world
+has raised concerns. This study investigates long-term temperature trends in
+four major Ghanaian cities representing distinct climatic zones. Using NASA's
+Prediction of Worldwide Energy Resource (POWER) data, statistical analyses
+assess local climate warming and its implications. Linear regression trend
+analysis and eXtreme Gradient Boosting (XGBoost) machine learning predict
+temperature variations. Land Surface Temperature (LST) profile maps generated
+from the RSLab platform enhance accuracy. Results reveal local warming trends,
+particularly in industrialized Accra. Demographic factors aren't significant.
+XGBoost model's low Root Mean Square Error (RMSE) scores demonstrate
+effectiveness in capturing temperature patterns. Wa unexpectedly has the
+highest mean temperature. Estimated mean temperatures for mid-2023 are: Accra
+27.86{\deg}C, Kumasi 27.15{\deg}C, Kete-Krachi 29.39{\deg}C, and Wa
+30.76{\deg}C. These findings improve understanding of local climate warming for
+policymakers and communities, aiding climate change strategies.
+
